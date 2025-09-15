@@ -1,8 +1,9 @@
+## Edited this template a bit to work on or finish my other projects.
+
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Edited this template a bit to work on or finish my other projects.
 Site: https://snoozliep.github.io/MyPortfolio/index.html
 Pomodoro:https://snoozliep.github.io/PomodoroTimer/index.html
 Tic-Tac-Toe: https://github.com/snoozliep/tic-tac-toe | https://snoozliep.github.io/tic-tac-toe/tic-tac-toe.html
