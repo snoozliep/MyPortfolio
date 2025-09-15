@@ -1,4 +1,4 @@
-## Edited this template a bit to work on or finish my other projects.
+** Edited this template a bit to work on or finish my other projects. **
 
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
