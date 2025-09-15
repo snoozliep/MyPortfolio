@@ -1,4 +1,4 @@
-<h2> Edited this template a bit to work on or finish my other projects. <h2>
+Edited this template a bit to work on or finish my other projects.
 
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
@@ -13,12 +13,10 @@ Text Adventure (WIP): https://github.com/snoozliep/text-adventure | https://snoo
 Number Guessing Game: https://snoozliep.github.io/guessing-game/guess.html 
 Fortune Cookie: https://snoozliep.github.io/fortune-cookie/cookie.html
 
-<h3>Inspo from Youtube:<h3>
-<list>
+Inspo from Youtube:
 Pop Up: https://snoozliep.github.io/practise/popup/popup.html
 Parallax: https://snoozliep.github.io/practise/practise/formats/websites/parallax/parallax.html
 Paper Effect: https://snoozliep.github.io/practise/ripped%20paper%20effect/paper.html
-<list>
 
 Coursera Projects:
 Simple Cathub Menu (WIP): https://snoozliep.github.io/practise/coursera/week3/cathub/cathub.html
