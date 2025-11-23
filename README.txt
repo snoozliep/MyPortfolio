@@ -8,7 +8,7 @@ Site: https://snoozliep.github.io/MyPortfolio/index.html
 Pomodoro:https://snoozliep.github.io/PomodoroTimer/index.html
 Tic-Tac-Toe: https://snoozliep.github.io/tic-tac-toe/tic-tac-toe.html
 DanDaDan Fan Website: https://github.com/snoozliep/Dandadan-Fan-Website-/tree/main | https://snoozliep.github.io/Dandadan-Fan-Website-/index.html
-Turbo Granny: https://github.com/snoozliep/Turbo-Granny | https://snoozliep.github.io/portfolio-cool/index.html
+Turbo Granny: https://snoozliep.github.io/Turbo-Granny/index.html
 Text Adventure (WIP): https://github.com/snoozliep/text-adventure | https://snoozliep.github.io/text-adventure/adventure.html
 Number Guessing Game: https://snoozliep.github.io/guessing-game/guess.html 
 Fortune Cookie: https://snoozliep.github.io/fortune-cookie/cookie.html
