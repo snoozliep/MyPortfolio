@@ -6,7 +6,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 Site: https://snoozliep.github.io/MyPortfolio/index.html
 Pomodoro:https://snoozliep.github.io/PomodoroTimer/index.html
-Tic-Tac-Toe: https://github.com/snoozliep/tic-tac-toe | https://snoozliep.github.io/tic-tac-toe/tic-tac-toe.html
+Tic-Tac-Toe: https://snoozliep.github.io/tic-tac-toe/tic-tac-toe.html
 DanDaDan Fan Website: https://github.com/snoozliep/Dandadan-Fan-Website-/tree/main | https://snoozliep.github.io/Dandadan-Fan-Website-/index.html
 Turbo Granny: https://github.com/snoozliep/Turbo-Granny | https://snoozliep.github.io/portfolio-cool/index.html
 Text Adventure (WIP): https://github.com/snoozliep/text-adventure | https://snoozliep.github.io/text-adventure/adventure.html
